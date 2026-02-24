@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    font family:;
+}
+
+.container{
+    text-align:center ;
+    width:600px ;
+    margin: 50px;
+    padding: 30px;
+    border:50px solid red;
+    background-color: gold;
+}
+header{
+    background-color: rgb(215, 18, 18) ;
+    color: white;
+    text-align:center;
+}
+    
+
+    nav a{
+        text-decoration: black;
+        padding: 5px;
+        display: inline-block;
+        }
+
+        .hero{
+            background-color:#dbe9;
+            text-align: center;
+            padding: 5px;
+        }
+
+        section{
+            padding: 10px;
+            margin: 10px;
+        }
+
+        footer{
+            background-color: #e5052e;
+            color: white;
+            text-align: center;
+            padding:10 ;
+        }
+
+        .info-box{
+
+            border: 1px solid#999;
+            padding: 20px;
+            margin:20px 0;
+        }
+
+        .box{
+            width: 400px;
+            height:400px;
+            background-image:url("B.jpg");
+            background-position:left ;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        div{
+            background-color:rgb(224, 224, 116) ;
+        }
+
+        h2{
+            border:solid  black seashell;
+            background-color: rgb(209, 54, 60);
+        }
+
+    
+        
+
+    
+
+    
+
+        
